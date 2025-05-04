@@ -2,6 +2,9 @@
 
 This project is a frontend clone of the Netflix homepage, built using **HTML**, **CSS**, **JavaScript**, and the **Bootstrap framework**. It was developed as part of a tutorial by **Harry Bhai**, which was an amazing learning experience for me.
 
+## 🔗 Live Demo
+
+👉 [Click here to visit the live site](https://shehzadchouhan.github.io/Netflix_clone/)
 
 ## 📁 Technologies Used
 - **HTML5** – Markup language used to structure the page.
