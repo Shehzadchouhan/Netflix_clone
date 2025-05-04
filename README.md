@@ -25,7 +25,8 @@ _(Optional: Add screenshots of your Netflix clone here to showcase the UI/UX)_
 2. Open the index.html file in your preferred browser to view the clone.
 3. You can also deploy it to GitHub Pages for easy online viewing.
 
-🧠 About the Project
+
+🧠 About the Project:-
 This clone was created from a tutorial by Harry Bhai, where I followed step-by-step instructions to build a simple and functional Netflix homepage clone. I learned a lot about web development and working with the Bootstrap framework.
 
 ✍️ Author
