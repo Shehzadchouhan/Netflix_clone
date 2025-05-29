@@ -4,7 +4,7 @@ This project is a frontend clone of the Netflix homepage, built using **HTML**, 
 
 ## 🔗 Live Demo
 
-👉 [Click here to visit the live site](https://shehzadchouhan.github.io/Netflix_clone/)
+👉 [Click here to visit the live site](https://nftclon.netlify.app/)
 
 ## 📁 Technologies Used
 - **HTML5** – Markup language used to structure the page.
