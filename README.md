@@ -12,9 +12,8 @@ This project is a frontend clone of the Netflix homepage, built using **HTML**, 
 #### mid Page
 ![mid Page](./assets/images/mid1.png)
 ![mid Page](./assets/images/mid2.png)
-###last page
-#### mid Page
-![mid Page](./assets/images/last.png)
+### last page
+![last Page](./assets/images/last.png)
 
 ## 📁 Technologies Used
 - **HTML5** – Markup language used to structure the page.
